@@ -1,0 +1,26 @@
+#title{
+    font-family: libre;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+
+html{
+    background-color: black;
+}
+#quote{
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}
+#position{
+    width: 50%;
+    margin-left: 25%;
+}
+#image{
+    width: 100%;
+    margin-top: 20px;
+    border: 5px solid white;
+}

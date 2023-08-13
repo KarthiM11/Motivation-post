@@ -15,11 +15,12 @@ html{
     text-align: center;
     font-size: 1em;
 }
-#position{
+.position{
     width: 50%;
     margin-left: 25%;
 }
 #image{
+
     width: 100%;
     margin-top: 20px;
     border: 5px solid white;
